@@ -21,12 +21,12 @@ Implement interface that allows the user to request data and current status of d
 
 <p align="center">
 UI for tracking packages: <br/>
-<img src="https://i.imgur.com/fHKLtSN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fHKLtSN.png" height="80%" width="80%"/>
 <br />
 <br />
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/mwjpXR2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mwjpXR2.png" height="80%" width="80%"/>
 <br />
 <br />
