@@ -10,7 +10,7 @@ Queues
 
 Lists
 
-Included Algorithm
+Included Algorithm Nearest Neighbor
 
 Loading packages in way that guarentees the mileage used is under 140 miles
     
